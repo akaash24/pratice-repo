@@ -1,0 +1,41 @@
+.author-name{
+    color: white;
+    background-color: black;
+    font-size: 25px;
+}
+.author-bandarban{
+    color: greenyellow;
+    background-color: black;
+    font-size: 25px;
+}
+.dhaka-author{
+    color: rgb(30, 182, 157);
+    background-color: violet;
+    font-size: 25px;
+    }
+.writting{
+background-color: white;
+color: indianred;
+background-color:rgba(114, 16, 16, 0.842);
+border: 5px solid yellowgreen;
+border-radius:10px;
+margin-top: 40px;
+margin-bottom: 20px;
+margin-left: 25px;
+margin-right: 25px;
+padding: 20px 15px;
+text-align: justify;
+}   
+.title{
+font-family: monospace;
+font-weight: 742;
+font-style: normal;
+text-align: center;
+color: rgb(47, 200, 211);
+
+}
+.author-css{
+    font-family: serif;
+    font-size: 14px;
+    background-color: bisque;
+}

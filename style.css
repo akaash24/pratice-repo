@@ -1,3 +1,4 @@
+
 .author-name{
     color: white;
     background-color: black;
@@ -38,4 +39,11 @@ color: rgb(47, 200, 211);
     font-family: serif;
     font-size: 14px;
     background-color: bisque;
+}
+.github{
+text-align: center;
+font-family: sans-serif;
+font-weight: 900;
+font-size: 50px;
+
 }
